@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: staging
+    database: dbt
+    schema: balanced_tree
+    tables:
+      - name: sales
+      - name: product_details
+  

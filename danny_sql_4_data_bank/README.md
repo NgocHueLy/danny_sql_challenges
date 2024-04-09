@@ -39,6 +39,7 @@ This case study is all about calculating metrics, growth and helping the busines
 - Create Postgres database and PGAdmin using Docker
 - Open terminal in the current directory, run ```docker-compose up```
 - SQL script [here](data_bank_query.sql)
+- CSV outputs [here](outputs)
 - See solutions output and explanation [here](solutions.md)
   
 
